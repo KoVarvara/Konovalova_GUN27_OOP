@@ -10,12 +10,12 @@ namespace GamePrototype.Utils
 {
     public abstract class DungeonBuilderAbstract
     {
-        public abstract void BuildDungeon();
+        public abstract DungeonRoom BuildDungeon();
     }
 
     public class DungeonBuilderEasy : DungeonBuilderAbstract
     {
-        public override void BuildDungeon()
+        public override DungeonRoom BuildDungeon()
         {
             var enter = new DungeonRoom("Enter");
             var monsterRoom = new DungeonRoom("Monster", UnitFactoryDemo.CreateGoblinEnemy());
@@ -37,12 +37,15 @@ namespace GamePrototype.Utils
             lootRoom.TrySetDirection(Direction.Forward, finalRoom);
             lootStoneRoom.TrySetDirection(Direction.Forward, finalRoom);
             emptyRoom.TrySetDirection(Direction.Forward, finalRoom);
+
+            return enter;
+
         }
     }
 
     public class DungeonBuilderMedium : DungeonBuilderAbstract
     {
-        public override void BuildDungeon()
+        public override DungeonRoom BuildDungeon()
         {
             var enter = new DungeonRoom("Enter");
             var monsterRoom = new DungeonRoom("Monster", UnitFactoryDemo.CreateGoblinEnemy());
@@ -66,12 +69,14 @@ namespace GamePrototype.Utils
             monsterRoom.TrySetDirection(Direction.Forward, finalRoom);
             lootStoneRoom.TrySetDirection(Direction.Forward, finalRoom);
             emptyRoom.TrySetDirection(Direction.Forward, finalRoom);
+            return enter;
+
         }
     }
 
     public class DungeonBuilderHard : DungeonBuilderAbstract
     {
-        public override void BuildDungeon()
+        public override DungeonRoom BuildDungeon()
         {
             var enter = new DungeonRoom("Enter");
             var monsterRoom = new DungeonRoom("Monster", UnitFactoryDemo.CreateGoblinEnemy());
@@ -100,6 +105,8 @@ namespace GamePrototype.Utils
 
             monsterRoom.TrySetDirection(Direction.Forward, finalRoom);
             lootRoom.TrySetDirection(Direction.Forward, finalRoom);
+            return enter;
+
         }
     }
 }
