@@ -10,11 +10,16 @@ namespace GamePrototype.Utils
 {
     public abstract class DungeonBuilderAbstract
     {
+        protected UnitFactoryDemoAbstract UnitFactory;
         public abstract DungeonRoom BuildDungeon();
     }
 
     public class DungeonBuilderEasy : DungeonBuilderAbstract
     {
+        public DungeonBuilderEasy() 
+        {
+            UnitFactory = new UnitFactoryDemoEasy();
+        }
         public override DungeonRoom BuildDungeon()
         {
             var enter = new DungeonRoom("Enter");
@@ -45,6 +50,10 @@ namespace GamePrototype.Utils
 
     public class DungeonBuilderMedium : DungeonBuilderAbstract
     {
+        public DungeonBuilderMedium()
+        {
+            UnitFactory = new UnitFactoryDemoMedium();
+        }
         public override DungeonRoom BuildDungeon()
         {
             var enter = new DungeonRoom("Enter");
@@ -76,6 +85,10 @@ namespace GamePrototype.Utils
 
     public class DungeonBuilderHard : DungeonBuilderAbstract
     {
+        public DungeonBuilderHard()
+        {
+            UnitFactory = new UnitFactoryDemoHard();
+        }
         public override DungeonRoom BuildDungeon()
         {
             var enter = new DungeonRoom("Enter");

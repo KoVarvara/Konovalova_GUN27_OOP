@@ -3,36 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_OOP\\GamePrototype\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|c:\\users\\admin\\desktop\\konovalova_gun27_oop\\gameprototype\\utils\\dungeonbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:utils\\dungeonbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|c:\\users\\admin\\desktop\\konovalova_gun27_oop\\gameprototype\\items\\equipitems\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:items\\equipitems\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|c:\\users\\admin\\desktop\\konovalova_gun27_oop\\gameprototype\\game\\gameloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:game\\gameloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|c:\\users\\admin\\desktop\\konovalova_gun27_oop\\gameprototype\\items\\equipitems\\equipitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:items\\equipitems\\equipitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|c:\\users\\admin\\desktop\\konovalova_gun27_oop\\gameprototype\\utils\\dungeonbuilderabstract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:utils\\dungeonbuilderabstract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|c:\\users\\admin\\desktop\\konovalova_gun27_oop\\gameprototype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|c:\\users\\admin\\desktop\\konovalova_gun27_oop\\gameprototype\\items\\equipitems\\rangedweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:items\\equipitems\\rangedweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|c:\\users\\admin\\desktop\\konovalova_gun27_oop\\gameprototype\\dungeon\\dungeonroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:dungeon\\dungeonroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|c:\\users\\admin\\desktop\\konovalova_gun27_oop\\gameprototype\\items\\equipitems\\boots.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:items\\equipitems\\boots.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|c:\\users\\admin\\desktop\\konovalova_gun27_oop\\gameprototype\\dungeon\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:dungeon\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|c:\\users\\admin\\desktop\\konovalova_gun27_oop\\gameprototype\\items\\equipitems\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:items\\equipitems\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|c:\\users\\admin\\desktop\\konovalova_gun27_oop\\gameprototype\\utils\\equipslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:utils\\equipslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|c:\\users\\admin\\desktop\\konovalova_gun27_oop\\gameprototype\\items\\equipitems\\armour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:items\\equipitems\\armour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|c:\\users\\admin\\desktop\\konovalova_gun27_oop\\gameprototype\\utils\\unitfactorydemoabstract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,6 +37,30 @@
     {
       "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|c:\\users\\admin\\desktop\\konovalova_gun27_oop\\gameprototype\\utils\\gameconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:utils\\gameconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|c:\\users\\admin\\desktop\\konovalova_gun27_oop\\gameprototype\\utils\\equipslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:utils\\equipslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|c:\\users\\admin\\desktop\\konovalova_gun27_oop\\gameprototype\\utils\\dungeonbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:utils\\dungeonbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|c:\\users\\admin\\desktop\\konovalova_gun27_oop\\gameprototype\\game\\gameloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:game\\gameloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|c:\\users\\admin\\desktop\\konovalova_gun27_oop\\gameprototype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|c:\\users\\admin\\desktop\\konovalova_gun27_oop\\gameprototype\\dungeon\\dungeonroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:dungeon\\dungeonroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|c:\\users\\admin\\desktop\\konovalova_gun27_oop\\gameprototype\\dungeon\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:dungeon\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|c:\\users\\admin\\desktop\\konovalova_gun27_oop\\gameprototype\\units\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -69,18 +85,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|c:\\users\\admin\\desktop\\konovalova_gun27_oop\\gameprototype\\items\\equipitems\\helm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:items\\equipitems\\helm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|c:\\users\\admin\\desktop\\konovalova_gun27_oop\\gameprototype\\items\\equipitems\\equipitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:items\\equipitems\\equipitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|c:\\users\\admin\\desktop\\konovalova_gun27_oop\\gameprototype\\items\\equipitems\\boots.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:items\\equipitems\\boots.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|c:\\users\\admin\\desktop\\konovalova_gun27_oop\\gameprototype\\items\\equipitems\\armour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|solutionrelative:items\\equipitems\\armour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DD66E181-5549-4E58-B2BF-1E870F087123}|GamePrototype.csproj|c:\\users\\admin\\desktop\\konovalova_gun27_oop\\gameprototype\\items\\economicitems\\healthpotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -114,31 +118,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "EquipSlot.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_OOP\\GamePrototype\\Utils\\EquipSlot.cs",
-              "RelativeDocumentMoniker": "Utils\\EquipSlot.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_OOP\\GamePrototype\\Utils\\EquipSlot.cs",
-              "RelativeToolTip": "Utils\\EquipSlot.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T19:47:46.423Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_OOP\\GamePrototype\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_OOP\\GamePrototype\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Title": "RangedWeapon.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_OOP\\GamePrototype\\Items\\EquipItems\\RangedWeapon.cs",
+              "RelativeDocumentMoniker": "Items\\EquipItems\\RangedWeapon.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_OOP\\GamePrototype\\Items\\EquipItems\\RangedWeapon.cs",
+              "RelativeToolTip": "Items\\EquipItems\\RangedWeapon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T19:47:46.303Z",
+              "WhenOpened": "2024-06-16T20:24:24.388Z",
               "EditorCaption": ""
             },
             {
@@ -149,14 +141,105 @@
               "RelativeDocumentMoniker": "Utils\\DungeonBuilderAbstract.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_OOP\\GamePrototype\\Utils\\DungeonBuilderAbstract.cs",
               "RelativeToolTip": "Utils\\DungeonBuilderAbstract.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGwAAAAAAAAA",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAuwFkAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-16T19:51:58.938Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameConstants.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_OOP\\GamePrototype\\Utils\\GameConstants.cs",
+              "RelativeDocumentMoniker": "Utils\\GameConstants.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_OOP\\GamePrototype\\Utils\\GameConstants.cs",
+              "RelativeToolTip": "Utils\\GameConstants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T19:47:46.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UnitFactoryDemo.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_OOP\\GamePrototype\\Utils\\UnitFactoryDemo.cs",
+              "RelativeDocumentMoniker": "Utils\\UnitFactoryDemo.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_OOP\\GamePrototype\\Utils\\UnitFactoryDemo.cs",
+              "RelativeToolTip": "Utils\\UnitFactoryDemo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T19:47:46.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EquipItem.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_OOP\\GamePrototype\\Items\\EquipItems\\EquipItem.cs",
+              "RelativeDocumentMoniker": "Items\\EquipItems\\EquipItem.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_OOP\\GamePrototype\\Items\\EquipItems\\EquipItem.cs",
+              "RelativeToolTip": "Items\\EquipItems\\EquipItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T19:47:46.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Armour.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_OOP\\GamePrototype\\Items\\EquipItems\\Armour.cs",
+              "RelativeDocumentMoniker": "Items\\EquipItems\\Armour.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_OOP\\GamePrototype\\Items\\EquipItems\\Armour.cs",
+              "RelativeToolTip": "Items\\EquipItems\\Armour.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T19:47:46.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_OOP\\GamePrototype\\Items\\EquipItems\\Weapon.cs",
+              "RelativeDocumentMoniker": "Items\\EquipItems\\Weapon.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_OOP\\GamePrototype\\Items\\EquipItems\\Weapon.cs",
+              "RelativeToolTip": "Items\\EquipItems\\Weapon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T19:47:46.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Boots.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_OOP\\GamePrototype\\Items\\EquipItems\\Boots.cs",
+              "RelativeDocumentMoniker": "Items\\EquipItems\\Boots.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_OOP\\GamePrototype\\Items\\EquipItems\\Boots.cs",
+              "RelativeToolTip": "Items\\EquipItems\\Boots.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T19:48:59.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EquipSlot.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_OOP\\GamePrototype\\Utils\\EquipSlot.cs",
+              "RelativeDocumentMoniker": "Utils\\EquipSlot.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_OOP\\GamePrototype\\Utils\\EquipSlot.cs",
+              "RelativeToolTip": "Utils\\EquipSlot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T19:47:46.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "DungeonBuilder.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_OOP\\GamePrototype\\Utils\\DungeonBuilder.cs",
               "RelativeDocumentMoniker": "Utils\\DungeonBuilder.cs",
@@ -169,56 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Unit.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_OOP\\GamePrototype\\Units\\Unit.cs",
-              "RelativeDocumentMoniker": "Units\\Unit.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_OOP\\GamePrototype\\Units\\Unit.cs",
-              "RelativeToolTip": "Units\\Unit.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T19:47:46.409Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Weapon.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_OOP\\GamePrototype\\Items\\EquipItems\\Weapon.cs",
-              "RelativeDocumentMoniker": "Items\\EquipItems\\Weapon.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_OOP\\GamePrototype\\Items\\EquipItems\\Weapon.cs",
-              "RelativeToolTip": "Items\\EquipItems\\Weapon.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T19:47:46.421Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GameLoop.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_OOP\\GamePrototype\\Game\\GameLoop.cs",
-              "RelativeDocumentMoniker": "Game\\GameLoop.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_OOP\\GamePrototype\\Game\\GameLoop.cs",
-              "RelativeToolTip": "Game\\GameLoop.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAswCgAAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T19:47:46.301Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Direction.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_OOP\\GamePrototype\\Dungeon\\Direction.cs",
-              "RelativeDocumentMoniker": "Dungeon\\Direction.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_OOP\\GamePrototype\\Dungeon\\Direction.cs",
-              "RelativeToolTip": "Dungeon\\Direction.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T19:47:46.271Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "DungeonRoom.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_OOP\\GamePrototype\\Dungeon\\DungeonRoom.cs",
               "RelativeDocumentMoniker": "Dungeon\\DungeonRoom.cs",
@@ -230,43 +264,68 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "UnitFactoryDemoAbstract.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_OOP\\GamePrototype\\Utils\\UnitFactoryDemoAbstract.cs",
               "RelativeDocumentMoniker": "Utils\\UnitFactoryDemoAbstract.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_OOP\\GamePrototype\\Utils\\UnitFactoryDemoAbstract.cs",
               "RelativeToolTip": "Utils\\UnitFactoryDemoAbstract.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAxAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T19:52:59.838Z"
+              "WhenOpened": "2024-06-16T19:52:59.838Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UnitFactoryDemo.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_OOP\\GamePrototype\\Utils\\UnitFactoryDemo.cs",
-              "RelativeDocumentMoniker": "Utils\\UnitFactoryDemo.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_OOP\\GamePrototype\\Utils\\UnitFactoryDemo.cs",
-              "RelativeToolTip": "Utils\\UnitFactoryDemo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAaAAAA",
+              "DocumentIndex": 14,
+              "Title": "Direction.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_OOP\\GamePrototype\\Dungeon\\Direction.cs",
+              "RelativeDocumentMoniker": "Dungeon\\Direction.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_OOP\\GamePrototype\\Dungeon\\Direction.cs",
+              "RelativeToolTip": "Dungeon\\Direction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T19:47:46.296Z"
+              "WhenOpened": "2024-06-16T19:47:46.271Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "GameConstants.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_OOP\\GamePrototype\\Utils\\GameConstants.cs",
-              "RelativeDocumentMoniker": "Utils\\GameConstants.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_OOP\\GamePrototype\\Utils\\GameConstants.cs",
-              "RelativeToolTip": "Utils\\GameConstants.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "DocumentIndex": 11,
+              "Title": "GameLoop.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_OOP\\GamePrototype\\Game\\GameLoop.cs",
+              "RelativeDocumentMoniker": "Game\\GameLoop.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_OOP\\GamePrototype\\Game\\GameLoop.cs",
+              "RelativeToolTip": "Game\\GameLoop.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAswCgAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T19:47:46.425Z"
+              "WhenOpened": "2024-06-16T19:47:46.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Unit.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_OOP\\GamePrototype\\Units\\Unit.cs",
+              "RelativeDocumentMoniker": "Units\\Unit.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_OOP\\GamePrototype\\Units\\Unit.cs",
+              "RelativeToolTip": "Units\\Unit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T19:47:46.409Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_OOP\\GamePrototype\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_OOP\\GamePrototype\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T19:47:46.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_OOP\\GamePrototype\\Units\\Player.cs",
               "RelativeDocumentMoniker": "Units\\Player.cs",
@@ -278,7 +337,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "Inventory.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_OOP\\GamePrototype\\Units\\Inventory.cs",
               "RelativeDocumentMoniker": "Units\\Inventory.cs",
@@ -290,7 +349,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "Goblin.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_OOP\\GamePrototype\\Units\\Goblin.cs",
               "RelativeDocumentMoniker": "Units\\Goblin.cs",
@@ -302,7 +361,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "Item.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_OOP\\GamePrototype\\Items\\Item.cs",
               "RelativeDocumentMoniker": "Items\\Item.cs",
@@ -314,7 +373,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "Helm.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_OOP\\GamePrototype\\Items\\EquipItems\\Helm.cs",
               "RelativeDocumentMoniker": "Items\\EquipItems\\Helm.cs",
@@ -326,43 +385,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "EquipItem.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_OOP\\GamePrototype\\Items\\EquipItems\\EquipItem.cs",
-              "RelativeDocumentMoniker": "Items\\EquipItems\\EquipItem.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_OOP\\GamePrototype\\Items\\EquipItems\\EquipItem.cs",
-              "RelativeToolTip": "Items\\EquipItems\\EquipItem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T19:47:46.432Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Boots.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_OOP\\GamePrototype\\Items\\EquipItems\\Boots.cs",
-              "RelativeDocumentMoniker": "Items\\EquipItems\\Boots.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_OOP\\GamePrototype\\Items\\EquipItems\\Boots.cs",
-              "RelativeToolTip": "Items\\EquipItems\\Boots.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABRAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T19:48:59.465Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Armour.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_OOP\\GamePrototype\\Items\\EquipItems\\Armour.cs",
-              "RelativeDocumentMoniker": "Items\\EquipItems\\Armour.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_OOP\\GamePrototype\\Items\\EquipItems\\Armour.cs",
-              "RelativeToolTip": "Items\\EquipItems\\Armour.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T19:47:46.419Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "HealthPotion.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_OOP\\GamePrototype\\Items\\EconomicItems\\HealthPotion.cs",
               "RelativeDocumentMoniker": "Items\\EconomicItems\\HealthPotion.cs",
@@ -374,7 +397,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Gold.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_OOP\\GamePrototype\\Items\\EconomicItems\\Gold.cs",
               "RelativeDocumentMoniker": "Items\\EconomicItems\\Gold.cs",
@@ -386,7 +409,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "EconomicItem.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_OOP\\GamePrototype\\Items\\EconomicItems\\EconomicItem.cs",
               "RelativeDocumentMoniker": "Items\\EconomicItems\\EconomicItem.cs",
@@ -398,7 +421,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Grindstone.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_OOP\\GamePrototype\\Items\\EconomicItems\\Grindstone.cs",
               "RelativeDocumentMoniker": "Items\\EconomicItems\\Grindstone.cs",
@@ -410,7 +433,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "RockPaperScissors.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_OOP\\GamePrototype\\Combat\\RockPaperScissors.cs",
               "RelativeDocumentMoniker": "Combat\\RockPaperScissors.cs",
@@ -422,7 +445,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "CombatManager.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_OOP\\GamePrototype\\Combat\\CombatManager.cs",
               "RelativeDocumentMoniker": "Combat\\CombatManager.cs",
